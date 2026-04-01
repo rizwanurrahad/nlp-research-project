@@ -1,4 +1,4 @@
-"""Minimal NLP pipeline for application portfolio use.
+# NLP model pipeline implementation for research-based text analysis
 
 This example uses TF-IDF + Logistic Regression for a simple text classification task.
 It is intentionally lightweight and readable so it can be reviewed easily by an admissions committee.
