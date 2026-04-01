@@ -1,4 +1,4 @@
-"""FastAPI app for lightweight deployment demo."""
+# FastAPI endpoint for AI inference (MSc application demo)
 
 from __future__ import annotations
 
