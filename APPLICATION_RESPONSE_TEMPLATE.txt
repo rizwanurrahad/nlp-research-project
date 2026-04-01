@@ -1,0 +1,16 @@
+Repository URL: https://github.com/YOUR_USERNAME/nlp-research-project
+
+Core model code path: src/model.py
+
+Username: YOUR_USERNAME
+
+Three commit SHAs you authored:
+1. PASTE_REAL_SHA_1
+2. PASTE_REAL_SHA_2
+3. PASTE_REAL_SHA_3
+
+Brief description of your role (<=50 words):
+I implemented a lightweight NLP pipeline based on TF-IDF and logistic regression, prepared a notebook for reproducible experiments, and added a FastAPI inference route plus Docker setup to demonstrate a deployment-oriented workflow.
+
+Suggested deployment-oriented detail for M2 submission:
+I added a FastAPI `/predict` route that returns predictions and per-request latency in milliseconds, along with a Dockerfile for containerized deployment.
