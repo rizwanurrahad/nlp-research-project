@@ -27,3 +27,4 @@ This repo-ready package is prepared for a master's application section that asks
 
 ## Important honesty note
 Do not invent commit SHAs. They only exist after real commits are made to Git.
+This repository was created to support my MSc Artificial Intelligence application.
